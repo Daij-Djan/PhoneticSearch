@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>products</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>SIRIUS 3RR21</string>
+			<key>basename</key>
+			<string>SIRIUS</string>
+			<key>postfix</key>
+			<string>3RR21</string>
+			<key>text</key>
+			<string>Die Stromüberwachungsrelais SIRIUS 3RR21, 3RR22 eignen sich zur Lastüberwachung von Motoren oder anderen Verbrauchern. Sie überwachen 2- oder 3-phasig den Effektivwert von AC-Strömen auf Über- bzw. Unterschreitung eingestellter Schwellwerte.
+                    
+                    Anwendungsbereiche sind die Überwachung hinsichtlich:
+                    Stromüber- und -unterschreitung,
+                    Leitungsbruch,
+                    Leerlauf und Lastabwurf wie z. B. bei einem Keilriemenriss oder Pumpenleerlauf,
+                    Überlast durch zu hohe Belastung,
+                    Funktionalität von elektrischen Verbrauchern wie Heizungen,
+                    falsche Phasenfolge bei mobilen Anlagen wie Kompressoren oder Kränen,
+                    unvollkommene Erdschlüsse z. B. auf Grund von beschädigter Isolierung oder Feuchte</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIRIUS 3RF34</string>
+			<key>basename</key>
+			<string>SIRIUS</string>
+			<key>postfix</key>
+			<string>3RF34</string>
+			<key>text</key>
+			<string>Diese 2-phasig gesteuerten, momentanschaltenden Halbleiterschütze im isolierenden Gehäuse werden in Baubreite 45 mm bis 5,2 A angeboten – und in Baubreite 90 mm bis 16 A. Damit können Motoren bis zu 7,5 kW betrieben werden.
+                    Die Geräte lassen sich mit einem Verbindungsbaustein direkt an einen Leistungsschalter anschließen. Auch die Montage eines elektronischen Überlastrelais 3RB30/3RB31 (siehe &quot;&quot;Schutzgeräte&quot;&quot;) oder eines Stromüberwachungsrelais 3RR2(siehe &quot;&quot;Überwachungs- und Steuergeräte&quot;&quot;) ist mittels eines Verbindungsadapters möglich. Ein gleichzeitiger Anbau eines Leistungsschalters und eines Überlast- oder Stromüberwachungsrelais wird aus Platz- und Erwärmungsgründen nicht empfohlen.
+                    Häufig schaltende sicherungslose und sicherungsbehaftete Motorabzweige können so zeitsparend realisiert werden.
+                    
+                    Hinweis:
+                    Die Motorschütze sind gemäß der Produktnorm IEC 60947-4-2 für Motoren mit einem maximalen Anlaufstromverhältnis von I/Ie &lt; 8 ausgelegt. Für die Auslegung für Motoren mit höheren Anlaufstromverhältnissen (typisch I/Ie &gt; 8) sind die Angaben im Gerätehandbuch - Halbleiterschaltgeräte SIRIUS 3RF34 zu berücksichtigen.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIRIUS 3RB3</string>
+			<key>basename</key>
+			<string>SIRIUS</string>
+			<key>postfix</key>
+			<string>3RB3</string>
+			<key>text</key>
+			<string>Die eigenversorgten elektronischen Überlastrelais SIRIUS 3RB30/3RB31 bis 80 A sind für den stromabhängigen Schutz von Verbrauchern mit Normal- und Schweranlauf gegen unzulässig hohe Erwärmung infolge von Überlast, Phasenunsymmetrie oder Phasenausfall konzipiert.
+                    
+                    Die elektronischen Überlastrelais 3RB30/3RB31 sind für Kunden aus allen Branchen geeignet, die einen optimalen stromabhängigen Schutz ihrer elektrischen Verbraucher (z. B. Motoren) bei Normal- und Schweranlaufbedingungen (CLASS 5E bis CLASS 30E) sicherstellen, Projektlaufzeiten, Bestände und Energieverbrauch minimieren sowie Anlagenverfügbarkeit und Maintenance-Management optimieren wollen.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Logikmodul LOGO!</string>
+			<key>basename</key>
+			<string>Logikmodul</string>
+			<key>postfix</key>
+			<string>LOGO</string>
+			<key>text</key>
+			<string>Das Logikmodul LOGO! ist die komfortable und kostengünstige Lösung für einfachere Steuerungs- und Regelungsaufgaben.
+                    
+                    LOGO! ist universell einsetzbar, z.B.:
+                    •Haus-/Installationsbereich (Licht, Rolläden, Markisen, Tore, Zugangskontrollen, Schranken, Lüftungsanlagen ...).
+                    •Schaltschrankbau.
+                    •Maschinen- und Apparatebau (Pumpen, Kleinpressen, Kompressoren, Hebebühnen, Förderbänder ...).
+                    •Spezialsteuerungen für Wintergärten, Gewächshäuser.
+                    •Signalvorverarbeitung für andere Steuerungen.
+                    
+                    Die Logikmodule LOGO! Modular können je nach Anwendung flexibel erweitert werden.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC S7-1200</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>S7-1200</string>
+			<key>text</key>
+			<string>Die SIMATIC S7-1200 ist der Controller für Steuerungs- und Regelungsaufgaben im Maschinen- und Anlagenbau.
+                    
+                    Durch die kompakte modulare Bauform bei gleichzeitig hoher Performance eignet sich die SIMATIC S7-1200 für eine Vielzahl von Automatisierungsanwendungen. Ihr Einsatzbereich erstreckt sich vom Relais- und Schützersatz bis hin zu komplexeren Automatisierungsaufgaben im Netzverbund und innerhalb dezentraler Strukturen.
+                    
+                    Die S7-1200 erschließt zunehmend auch Bereiche, für die bisher aus wirtschaftlichen Gründen spezielle Elektronik entwickelt wurde.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC S7-1500</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>S7-1500</string>
+			<key>text</key>
+			<string>Der S7-1500 Software Controller realisiert die Funktion eines S7-1500 Controller als Software auf einem SIMATC IPC mit Windows. Damit kann ein SIMATIC IPC zur Steuerung von Maschinen oder Anlagen eingesetzt werden.
+                    
+                    Zum Anschluss dezentraler Peripherie über PROFINET oder PROFIBUS können die integrierten Ethernet- und PROPFIBUS-Schnittstellen der SIMATIC IPC eingesetzt werden. Daneben bietet die CPU umfangreiche Regelungsfunktionalitäten über einfach konfigurierbare Bausteine, sowie die Anbindung von Antrieben über standardisierte PC-open-Bausteine an.
+                    
+                    Seine besonderen Stärken spielt der Software Controller aus, wenn spezielle Automatisierungsfunktionen über die Programmiersprache C oder C++ integriert werden sollen, oder wenn eine enge Anbindung von Windows-Software an den Software Controller erforderlich ist.
+                    
+                    Dazu steht das SIMATIC ODK 1500S zur Verfügung, das die Entwicklung solcher Anwendungen unterstützt. Diese Anwendungen können für die Anbindung an Windows und Windows-Software (z.B. Datenbanken, Visualisierung oder das Windows Filesystem) oder für Echtzeitanwendungen (z.B. Algorithmen, Regler) verwendet werden</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC ET 200SP</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>ET 200SP</string>
+			<key>text</key>
+			<string>Das skalierbare Peripheriesystem SIMATIC ET 200SP ist ein hochflexibles modulares Peripheriesystem in Schutzart IP20. Über Interfacemodule mit PROFINET- oder PROFIBUS-Schnittstelle kann es mit einer überlagerten Steuerung IO-Daten der angeschlossenen Peripheriemodule austauschen. Alternativ stehen als weitere Kopfstationen auch verschiedene PLC, F-PLC und Open Controller als kompakte S7-1500-Kleinsteuerungenn (Distributed Controller) zur Verfügung. Für außergewöhnliche Anforderungen und hohe Robustheit stehen ET 200SP-Komponenten als SIPLUS Variante zur Verfügung.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC ET 200</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>ET 200</string>
+			<key>text</key>
+			<string>SIMATIC ET 200-Systeme für den schaltschranklosen Aufbau sind in einem robusten, glasfaserverstärkten Kunststoffgehäuse untergebracht und daher schlagfest, schmutzresistent und wasserdicht. Und außerdem brauchen Sie noch weniger Zusatzkomponenten, sparen bei der Verkabelung und profitieren von kürzesten Reaktionszeiten.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC ET 200iSP</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>ET 200iSP</string>
+			<key>text</key>
+			<string>ET 200iSP ist ein modulares, eigensicheres I/O-Peripheriesystem in Schutzart IP30, das in Gas- und Staubatmosphären bei Umgebungstemperaturen von -20 bis +70 °C betrieben werden kann. Es ist für die Verwendung mit SIMATIC PCS 7 und SIMATIC S7 optimiert, lässt sich aber mittels GSD-Datei auch in andere Systeme einbinden.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC ET 200pro</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>ET 200pro</string>
+			<key>text</key>
+			<string>Dezentrales Peripheriesystem SIMATIC ET 200pro in Schutzart IP65/67 für den schaltschranklosen, maschinennahen Einsatz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Motorstarter ET 200pro</string>
+			<key>basename</key>
+			<string>Motorstarter</string>
+			<key>postfix</key>
+			<string>ET 200pro</string>
+			<key>text</key>
+			<string>Mit den Motorstartern der ET 200pro können beliebige Drehstromverbraucher geschützt und geschaltet werden.
+                    
+                    Die Motorstarter ET 200pro stehen sowohl mit mechanischen als auch mit elektronischen Schaltgliedern zur Verfügung.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frontstecker für SIMATIC S7-400</string>
+			<key>basename</key>
+			<string>Frontstecker für SIMATIC</string>
+			<key>postfix</key>
+			<string>S7-400</string>
+			<key>text</key>
+			<string>Zur anwenderfreundlichen, aufwandsarmen Verdrahtung der S7-400-Baugruppen stehen Frontstecker in unterschiedlichen Ausführungen zur Verfügung.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIPROCESS GA700</string>
+			<key>basename</key>
+			<string>SSIPROCESS</string>
+			<key>postfix</key>
+			<string>GA700</string>
+			<key>text</key>
+			<string>Die Gerätefamilie SIPROCESS GA700 stellt die jüngste Generation der Siemens Gasanalysatoren dar und zeichnet sich durch einen modularen Aufbau aus. Es können bis zu zwei Analysenmodule je Grundgerät eingesetzt werden.
+                    Grundgerät
+                    Das Grundgerät ist in drei Ausführungen erhältlich: zum Einen als 19“-Einschubgerät mit 3 Höheneinheiten, als Gehäuse zur Wandmontage und zum Anderen als Ex-d-Feldgerät. Die in den Grundgeräten vorhandenen Kommunikationsschnittstellen können durch optional verfügbare, weitere Elektronikmodule an die jeweilige Prozessumgebung bzw. das Prozessleitsystem angepasst werden.
+                    Analysenmodule
+                    Abhängig von der Messaufgabe kann der SIPROCESS GA700 durch den Einbau auswählbarer Analysenmodule individuell an die jeweiligen analytischen bzw. prozesstechnischen Anforderungen angepasst werden.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMATIC WinAC</string>
+			<key>basename</key>
+			<string>SIMATIC</string>
+			<key>postfix</key>
+			<string>WinAC</string>
+			<key>text</key>
+			<string>SIMATIC WinAC RTX ist eine bewährte Lösung, wenn Sie eine offene, flexible und zuverlässige Steuerung für Ihre PC-basierte Automatisierungsaufgabe suchen.
+                    
+                    Auf dem PC lassen sich alle anfallenden Automatisierungsaufgaben wie z.B. Steuern, Regeln, Bedienen &amp; Beobachten und MotionControl auf einer Plattform realisieren. Überall, wo zusätzlich zu klassischen SPS-Aufgaben noch PC-Anwendungen erledigt werden müssen, ist PC-based Automation die erste Wahl.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SCALANCE S</string>
+			<key>basename</key>
+			<string>SCALANCE</string>
+			<key>postfix</key>
+			<string>S</string>
+			<key>text</key>
+			<string>Netzwerksicherheit bedeutet Schutz von Automatisierungsnetzen vor unbefugten Zugriffen. Dies beinhaltet die Kontrolle aller Schnittstellen wie z. B. zwischen Büro- und Anlagennetzwerk oder der Fernwartungszugänge zum Internet und kann mittels Firewalls und gegebenenfalls Aufbau einer DMZ (demilitarisierte Zone) erfolgen. Die DMZ dient zur Bereitstellung von Daten für andere Netze, ohne direkten Zugang zum Automatisierungsnetz zu gewähren. Durch  sicherheitstechnische Segmentierung des Anlagennetzwerks in einzelne geschützte Automatisierungszellen, wird die Sicherheit erhöht. Die Datenübertragung wird mittels VPN verschlüsselt und so vor Datenspionage und Manipulation geschützt. Die Kommunikationsteilnehmer werden sicher authentifiziert. Mit &quot;Security Integrated&quot;-Komponenten wie SCALANCE S Security Modules, SCALANCE M Mobilfunkroutern oder Security CPs für SIMATIC kann das Zellenschutzkonzept realisiert und die Kommunikation gesichert werden.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PROFIBUS</string>
+			<key>basename</key>
+			<string>PROFIBUS</string>
+			<key>text</key>
+			<string>PROFIBUS bietet ein umfangreiches Spektrum von Netzkomponenten für die elektrische und optische Übertragungstechnik. Mit dem PROFIBUS OLM und dem Busterminal OBT lässt sich zusammen mit den PROFIBUS LWL ein optisches Netzwerk mit Übertragungsraten bis zu 12 Mbit/s realisieren – unabhängig von der Entfernung.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIPLUS Stromversorgungen</string>
+			<key>basename</key>
+			<string>SIPLUS</string>
+			<key>postfix</key>
+			<string>Stromversorgungen</string>
+			<key>text</key>
+			<string>Stromversorgungen für S7-1500 und ET 200MP</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Analogbaugruppen HART</string>
+			<key>basename</key>
+			<string>HART</string>
+			<key>text</key>
+			<string>HART ist ein serielles Übertragungsverfahren, mit dem über eine 4-bis-20-mA-Stromschleife zusätzlich Parameterdaten wie Messbereiche, Dämpfung usw. zum angeschlossenen Messumformer übertragen werden. Mit der HART-Baugruppe wird die Nutzung des HART-Protokolls möglich.
+                    
+                    An die Baugruppe können alle Messumformer und Aktoren angeschlossen werden, die für die Kommunikation über das HART-Protokoll zertifiziert sind.
+                    
+                    Zusätzlich können auch herkömmliche Feldgeräte mit 4-bis-20-mA-Technik ohne HART-Protokoll angeschlossen werden.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SINAMICS S120</string>
+			<key>basename</key>
+			<string>SINAMICS</string>
+			<key>postfix</key>
+			<string>S120</string>
+			<key>text</key>
+			<string>Der modulare Antrieb SINAMICS S120 ist der Systembaukasten für High Performance Motion Control Anwendungen im industriellen Maschinen- und Anlagenbau. Eine Vielzahl von aufeinander abgestimmten Komponenten und Funktionen – beispielsweise performante Einzelantriebe und koordinierte Antriebe (Mehrachsanwendungen) mit Vektor- oder Servofunktionalität – ermöglicht die Realisierung maßgeschneiderter Lösungen. Mit dem Antrieb SINAMICS S120 setzen Anwender auf mehr Perfomance, Produktivität und Flexibilität.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SINAMICS S120 CM</string>
+			<key>basename</key>
+			<string>SINAMICS</string>
+			<key>postfix</key>
+			<string>S120 CM</string>
+			<key>text</key>
+			<string>Mit den SINAMICS S120 Cabinet Modules steht eine modulare Schrankgerätelösung für High-Performance-Anwendungen im industriellen Maschinen- und Anlagenbau zur Verfügung. Sie eignen sich insbesondere für solche Anwendungen, wo mehrere Antriebe koordiniert zusammen arbeiten. Solche Applikationen werden in der Regel mit einem Antriebssystem ausgerüstet, das aus mehreren Motor Modules besteht, die über eine gemeinsame DC-Zwischenkreisschiene verbunden sind.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SIMOTICS FD</string>
+			<key>basename</key>
+			<string>SIMOTICS</string>
+			<key>postfix</key>
+			<string>FD</string>
+			<key>text</key>
+			<string>SIMOTICS FD ist im Leistungsbereich ab 200 kW die Basis für ein wirtschaftliches Gesamtsystem aus Motor und Umrichter mit hoher Leistungsdichte. Die Motoren basieren auf einem zukunftsweisenden Baukastensystem, das für die unterschiedlichsten Anforderungen den passenden Motor zur Verfügung stellt. So sind die unterschiedlichsten Kühlarten - bis hin zur Wasserkühlung - verfügbar. </string>
+		</dict>
+	</array>
+</dict>
+</plist>

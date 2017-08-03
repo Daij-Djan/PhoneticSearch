@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CFFDA820-2BEB-4D65-8377-FFAFAF2DF198}|Default">
+  <MonoDevelop.Ide.ItemProperties.ios-c__sharp-demo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.107B212A-B382-4205-9BF6-08746A9ED239" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ios-c_sharp-demo/Resources/products.json">
+    <Files>
+      <File FileName="ios-c_sharp-demo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ios-c_sharp-demo/ViewController.cs" Line="34" Column="34" />
+      <File FileName="ios-c_sharp-demo/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ios-c_sharp-demo/Main.storyboard" />
+      <File FileName="PhoneticSearch_csharp/String+Levenstein.cs" Line="8" Column="14" />
+      <File FileName="PhoneticSearch_csharp/String+Metaphone2.cs" Line="9" Column="1" />
+      <File FileName="PhoneticSearch_csharp/String+Soundex.cs" Line="5" Column="85" />
+      <File FileName="PhoneticSearch_csharp/String+normalizedTokens.cs" Line="17" Column="36" />
+      <File FileName="PhoneticSearch_csharp/PhoneticSearch.cs" Line="142" Column="33" />
+      <File FileName="ios-c_sharp-demo/Resources/products.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

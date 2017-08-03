@@ -1,0 +1,9 @@
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/bin/iPhoneSimulator/Debug/ios-c_sharp-demo.exe
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/bin/iPhoneSimulator/Debug/ios-c_sharp-demo.pdb
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/ios-c_sharp-demo.csproj.CoreCompileInputs.cache
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/ios-c_sharp-demo.exe
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/ios-c_sharp-demo.pdb
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/dominikpich/Projects/ios-c_sharp-demo/ios-c_sharp-demo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
